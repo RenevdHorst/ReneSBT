@@ -1,0 +1,13 @@
+run
+compile
+~ compile
+clean
+test
+run
+compile
+build
+update
+run
+sbt compile
+compile
+run
